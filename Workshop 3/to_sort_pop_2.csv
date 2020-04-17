@@ -1,31 +1,31 @@
-species	primary_threat	secondary_threat	tertiary_threat	pop_2_2000-01-01	pop_2_2001-01-01	pop_2_2002-01-01	pop_2_2003-01-01	pop_2_2004-01-01	pop_2_2005-01-01	pop_2_2006-01-01	pop_2_2007-01-01	pop_2_2008-01-01	pop_2_2009-01-01	pop_2_2010-01-01	pop_2_2011-01-01	pop_2_2012-01-01	pop_2_2013-01-01	pop_2_2014-01-01	pop_2_2015-01-01	pop_2_2016-01-01	pop_2_2017-01-01	pop_2_2018-01-01	pop_2_2019-01-01	pop_2_1996-01-01	pop_2_1997-01-01	pop_2_1998-01-01	pop_2_1999-01-01
-Sphagnum palustre	NA	NA	NA	NA	NA	NA	NA	NA	96	96	89	95	110	117	131	162	161	164	157	147	165	NA	NA	NA	NA	NA	NA
-Pohlia wahlenbergii	Habitat loss	Pollution	NA	NA	NA	NA	NA	21	10	9	9	15	22	20	9	9	7	8	5	3	NA	NA	NA	NA	NA	NA	NA
-Sphagnum lescurii	Pollution	Exploitation	NA	NA	NA	0	0	0	0	0	0	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA
-Marchantia polymorpha	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	162	145	127	127	103	105	NA	NA	NA	NA	NA	NA	NA	NA
-Platyhypnidium riparioides	Habitat loss	NA	NA	NA	401	232	254	210	198	207	246	293	335	389	218	225	144	178	NA	NA	NA	NA	NA	NA	NA	NA	NA
-Scleropodium cespitans	Pollution	NA	NA	NA	149	143	77	85	90	89	60	62	61	85	84	113	71	19	19	18	16	NA	NA	NA	NA	NA	NA
-Hedwigia stellata	Habitat fragmentation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	85	50	62	31	25	32	29	30	41	NA	NA	NA	NA	NA	NA
-Cephalozia lunulifolia	Habitat fragmentation	NA	NA	NA	NA	NA	NA	NA	189	204	145	178	152	142	144	85	73	62	71	62	69	70	NA	NA	NA	NA	NA
-Rhynchostegium megapolitanum	NA	NA	NA	NA	NA	NA	NA	NA	NA	86	81	90	98	87	70	67	78	97	90	97	NA	NA	NA	NA	NA	NA	NA
-Pseudoleskea patens	Habitat loss	NA	NA	70	55	64	58	55	41	23	24	25	11	7	9	11	13	9	9	NA	NA	NA	NA	NA	NA	NA	NA
-Orthotrichum rupestre	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	129	167	210	202	199	215	222	223	NA	NA	NA	NA	NA	NA
-Pottia davalliana	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	225	206	228	294	287	363	376	446	516	NA	NA	NA	NA
-Riccia atromarginata	Habitat destruction	Climate change	Habitat destruction	NA	NA	NA	NA	226	301	0	0	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA
-Hypnum cupressiforne	Pollution	NA	NA	NA	NA	NA	NA	NA	223	186	257	332	335	301	159	236	249	313	274	NA	NA	NA	NA	NA	NA	NA	NA
-Orthotrichum riparium	Exploitation	Habitat fragmentation	Exploitation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	215	86	25	20	11	5	4	5	NA	NA	NA	NA	NA
-Cephaloziella divaricata	Habitat fragmentation	Climate change	Pollution	NA	NA	NA	NA	150	170	99	0	0	0	0	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA
-Dicranella crispa	Habitat fragmentation	Climate change	NA	NA	NA	273	96	118	151	45	39	19	17	22	21	18	11	6	5	3	NA	NA	NA	NA	NA	NA	NA
-Tortella tortuosa	NA	NA	NA	151	153	135	138	123	117	119	118	148	134	107	108	121	95	94	NA	NA	NA	NA	NA	NA	NA	NA	138
-Barbula unguiculata	Exploitation	Habitat loss	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	42	42	39	35	37	NA	NA	NA	NA	NA	NA	NA	NA
-Calymperes erosum	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	392	367	315	351	364	NA	NA	NA	NA
-Pohlia melanodon	Habitat fragmentation	Habitat loss	Climate change	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA
-Sphagnum squarrosum	Exploitation	Habitat destruction	Habitat fragmentation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0	0	0	0	0	0	0	0	0	NA	NA	NA	NA	NA
-Bartramia halleriana	Habitat destruction	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	394	155	187	126	68	77	73	89	87	121	NA	NA	NA	NA	NA
-Brachythecium velutinum	Habitat fragmentation	Climate change	Habitat loss	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	145	109	132	16	18	26	NA	NA	NA	NA	NA	NA	NA	NA
-Ceratodon purpureus	Habitat loss	Exploitation	Climate change	NA	NA	NA	NA	NA	NA	NA	NA	NA	222	148	75	7	6	5	5	1	NA	NA	NA	NA	NA	NA	NA
-Zygodon rupestris	NA	NA	NA	NA	NA	NA	NA	192	242	224	251	235	214	257	252	305	354	395	402	332	402	NA	NA	NA	NA	NA	NA
-Tortula subulata	NA	NA	NA	NA	NA	NA	NA	NA	NA	230	259	256	257	255	286	348	425	501	531	662	579	NA	NA	NA	NA	NA	NA
-Buxbaumia viridis	Pollution	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	131	109	123	127	100	78	NA	NA	NA	NA	NA
-Weissia squarrosa	Pollution	Climate change	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	230	20	7	5	4	3	1	1	0	NA	NA	NA	NA	NA	NA
-Acaulon triquetrum	Pollution	Exploitation	Climate change	189	114	88	36	3	1	1	1	0	0	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA
+species	primary_threat	secondary_threat	tertiary_threat	nthreat	pop_2_2000-01-01	pop_2_2001-01-01	pop_2_2002-01-01	pop_2_2003-01-01	pop_2_2004-01-01	pop_2_2005-01-01	pop_2_2006-01-01	pop_2_2007-01-01	pop_2_2008-01-01	pop_2_2009-01-01	pop_2_2010-01-01	pop_2_2011-01-01	pop_2_2012-01-01	pop_2_2013-01-01	pop_2_2014-01-01	pop_2_2015-01-01	pop_2_2016-01-01	pop_2_2017-01-01	pop_2_2018-01-01	pop_2_2019-01-01	pop_2_1996-01-01	pop_2_1997-01-01	pop_2_1998-01-01	pop_2_1999-01-01
+Sphagnum palustre	NA	NA	NA	0	NA	NA	NA	NA	NA	96	96	89	95	110	117	131	162	161	164	157	147	165	NA	NA	NA	NA	NA	NA
+Pohlia wahlenbergii	Habitat loss	Pollution	NA	2	NA	NA	NA	NA	21	10	9	9	15	22	20	9	9	7	8	5	3	NA	NA	NA	NA	NA	NA	NA
+Sphagnum lescurii	Pollution	Exploitation	NA	2	NA	NA	0	0	0	0	0	0	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Marchantia polymorpha	NA	NA	NA	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	162	145	127	127	103	105	NA	NA	NA	NA	NA	NA	NA	NA
+Platyhypnidium riparioides	Habitat loss	NA	NA	1	NA	401	232	254	210	198	207	246	293	335	389	218	225	144	178	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Scleropodium cespitans	Pollution	NA	NA	1	NA	149	143	77	85	90	89	60	62	61	85	84	113	71	19	19	18	16	NA	NA	NA	NA	NA	NA
+Hedwigia stellata	Habitat fragmentation	NA	NA	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	85	50	62	31	25	32	29	30	41	NA	NA	NA	NA	NA	NA
+Cephalozia lunulifolia	Habitat fragmentation	NA	NA	1	NA	NA	NA	NA	NA	189	204	145	178	152	142	144	85	73	62	71	62	69	70	NA	NA	NA	NA	NA
+Rhynchostegium megapolitanum	NA	NA	NA	0	NA	NA	NA	NA	NA	NA	86	81	90	98	87	70	67	78	97	90	97	NA	NA	NA	NA	NA	NA	NA
+Pseudoleskea patens	Habitat loss	NA	NA	1	70	55	64	58	55	41	23	24	25	11	7	9	11	13	9	9	NA	NA	NA	NA	NA	NA	NA	NA
+Orthotrichum rupestre	NA	NA	NA	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	129	167	210	202	199	215	222	223	NA	NA	NA	NA	NA	NA
+Pottia davalliana	NA	NA	NA	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	225	206	228	294	287	363	376	446	516	NA	NA	NA	NA
+Riccia atromarginata	Habitat destruction	Climate change	Habitat destruction	3	NA	NA	NA	NA	226	301	0	0	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Hypnum cupressiforne	Pollution	NA	NA	1	NA	NA	NA	NA	NA	223	186	257	332	335	301	159	236	249	313	274	NA	NA	NA	NA	NA	NA	NA	NA
+Orthotrichum riparium	Exploitation	Habitat fragmentation	Exploitation	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	215	86	25	20	11	5	4	5	NA	NA	NA	NA	NA
+Cephaloziella divaricata	Habitat fragmentation	Climate change	Pollution	3	NA	NA	NA	NA	150	170	99	0	0	0	0	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA
+Dicranella crispa	Habitat fragmentation	Climate change	NA	2	NA	NA	273	96	118	151	45	39	19	17	22	21	18	11	6	5	3	NA	NA	NA	NA	NA	NA	NA
+Tortella tortuosa	NA	NA	NA	0	151	153	135	138	123	117	119	118	148	134	107	108	121	95	94	NA	NA	NA	NA	NA	NA	NA	NA	138
+Barbula unguiculata	Exploitation	Habitat loss	NA	2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	42	42	39	35	37	NA	NA	NA	NA	NA	NA	NA	NA
+Calymperes erosum	NA	NA	NA	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	392	367	315	351	364	NA	NA	NA	NA
+Pohlia melanodon	Habitat fragmentation	Habitat loss	Climate change	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA
+Sphagnum squarrosum	Exploitation	Habitat destruction	Habitat fragmentation	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	0	0	0	0	0	0	0	0	0	NA	NA	NA	NA	NA
+Bartramia halleriana	Habitat destruction	NA	NA	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	394	155	187	126	68	77	73	89	87	121	NA	NA	NA	NA	NA
+Brachythecium velutinum	Habitat fragmentation	Climate change	Habitat loss	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	145	109	132	16	18	26	NA	NA	NA	NA	NA	NA	NA	NA
+Ceratodon purpureus	Habitat loss	Exploitation	Climate change	3	NA	NA	NA	NA	NA	NA	NA	NA	NA	222	148	75	7	6	5	5	1	NA	NA	NA	NA	NA	NA	NA
+Zygodon rupestris	NA	NA	NA	0	NA	NA	NA	NA	192	242	224	251	235	214	257	252	305	354	395	402	332	402	NA	NA	NA	NA	NA	NA
+Tortula subulata	NA	NA	NA	0	NA	NA	NA	NA	NA	NA	230	259	256	257	255	286	348	425	501	531	662	579	NA	NA	NA	NA	NA	NA
+Buxbaumia viridis	Pollution	NA	NA	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	131	109	123	127	100	78	NA	NA	NA	NA	NA
+Weissia squarrosa	Pollution	Climate change	NA	2	NA	NA	NA	NA	NA	NA	NA	NA	NA	230	20	7	5	4	3	1	1	0	NA	NA	NA	NA	NA	NA
+Acaulon triquetrum	Pollution	Exploitation	Climate change	3	189	114	88	36	3	1	1	1	0	0	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	NA	NA
