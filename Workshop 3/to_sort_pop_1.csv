@@ -1,21 +1,31 @@
-species	primary_threat	secondary_threat	tertiary_threat	pop_1_2001-01-01	pop_1_2002-01-01	pop_1_2003-01-01	pop_1_2004-01-01	pop_1_2005-01-01	pop_1_2006-01-01	pop_1_2007-01-01	pop_1_2008-01-01	pop_1_2009-01-01	pop_1_2010-01-01	pop_1_2011-01-01	pop_1_2012-01-01	pop_1_2013-01-01	pop_1_2014-01-01	pop_1_2015-01-01	pop_1_2016-01-01	pop_1_2017-01-01	pop_1_2018-01-01	pop_1_2019-01-01	pop_1_2000-01-01	pop_1_1999-01-01	pop_1_1997-01-01	pop_1_1998-01-01	pop_1_1996-01-01
-Orthotrichum riparium	Pollution	NA	NA	NA	NA	NA	119	122	141	135	104	108	121	105	92	95	109	123	160	86	37	NA	NA	NA	NA	NA	NA
-Fissidens bryoides	Exploitation	NA	NA	284	323	313	232	273	269	250	218	206	293	330	288	319	379	399	587	822	811	NA	286	387	NA	NA	NA
-Cephaloziella divaricata	Pollution	NA	NA	NA	NA	NA	NA	NA	NA	192	168	171	110	104	89	72	84	91	72	NA	NA	NA	NA	NA	NA	NA	NA
-Pottia davalliana	Habitat loss	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	89	81	60	72	70	74	89	NA	NA	NA	NA	NA	NA
-Hedwigia ciliata	Habitat destruction	Exploitation	NA	NA	416	368	370	428	484	543	387	307	65	56	43	64	13	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-Tortula subulata	Exploitation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	363	398	436	440	465	443	340	NA	NA	NA	NA	NA	NA	NA	NA	NA
-Ephemerum serratum	Habitat destruction	Habitat loss	NA	NA	NA	NA	NA	NA	122	96	141	150	211	79	94	58	75	137	127	72	55	NA	NA	NA	NA	NA	NA
-Cratoneuron curvicaule	Habitat destruction	Habitat destruction	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	253	261	158	205	123	126	154	246	176	259	NA	NA	NA	NA	NA
-Orthotrichum striatum	Habitat loss	Habitat loss	NA	NA	170	154	154	159	140	165	258	161	194	223	243	363	186	233	222	NA	NA	NA	NA	NA	NA	NA	NA
-Funaria pulchella	Exploitation	Climate change	NA	164	195	147	148	120	176	21	19	14	9	4	3	4	3	2	1	0	NA	NA	170	203	NA	NA	NA
-Thamnobryum alopecurum	Habitat fragmentation	NA	NA	NA	289	225	202	138	132	139	175	117	118	116	118	88	110	95	95	95	NA	NA	NA	NA	NA	NA	NA
-Cinclidotus nigricans	Habitat loss	Habitat destruction	Climate change	406	389	369	153	212	303	376	197	130	0	0	0	0	0	NA	NA	NA	NA	NA	411	NA	NA	NA	NA
-Bryum weigelii	NA	NA	NA	NA	NA	NA	NA	NA	NA	292	302	274	268	261	269	245	231	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
-Barbula tophacea	NA	NA	NA	NA	NA	NA	NA	NA	NA	249	237	244	244	218	197	207	199	178	NA	NA	NA	NA	NA	NA	NA	NA	NA
-Amblystegium confervoides	Habitat destruction	Pollution	NA	NA	NA	332	314	381	413	400	473	698	633	645	518	527	396	343	120	62	135	NA	NA	NA	NA	NA	NA
-Cephalozia lunulifolia	Climate change	Habitat destruction	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	395	439	531	422	234	NA	NA	NA	NA	NA	NA
-Hedwigia stellata	Pollution	NA	NA	228	198	173	157	164	131	115	101	93	99	88	77	65	66	76	64	69	85	NA	183	NA	NA	NA	NA
-Atrichum undulatum	Habitat fragmentation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	456	465	367	418	296	324	328	313	405	NA	NA	NA	NA	NA	NA	NA
-Scleropodium cespitans	Habitat destruction	NA	NA	NA	NA	NA	NA	NA	347	350	404	381	371	370	357	359	292	220	197	214	NA	NA	NA	NA	NA	NA	NA
-Cirriphylum crassinervium	NA	NA	NA	NA	333	390	353	350	353	336	348	353	343	357	343	385	409	403	411	433	NA	NA	NA	NA	NA	NA	NA
+species	primary_threat	secondary_threat	tertiary_threat	pop_1_2003-01-01	pop_1_2004-01-01	pop_1_2005-01-01	pop_1_2006-01-01	pop_1_2007-01-01	pop_1_2008-01-01	pop_1_2009-01-01	pop_1_2010-01-01	pop_1_2011-01-01	pop_1_2012-01-01	pop_1_2013-01-01	pop_1_2014-01-01	pop_1_2015-01-01	pop_1_2016-01-01	pop_1_2017-01-01	pop_1_2018-01-01	pop_1_2019-01-01	pop_1_2000-01-01	pop_1_2001-01-01	pop_1_2002-01-01	pop_1_1997-01-01	pop_1_1998-01-01	pop_1_1999-01-01	pop_1_1996-01-01	pop_1_1995-01-01
+Schistidium helveticum	Habitat destruction	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	353	419	359	363	321	280	379	NA	NA	NA	NA	NA	NA	NA	NA
+Paraleucobryum longifolium	Exploitation	Habitat loss	NA	NA	NA	24	12	18	6	6	5	2	2	4	3	3	1	1	0	0	NA	NA	NA	NA	NA	NA	NA	NA
+Scapania paludosa	Climate change	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	182	165	133	145	173	171	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Seligera recurvata	Exploitation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	255	145	117	152	168	161	115	152	NA	NA	NA	NA	NA	NA	NA	NA
+Tortula subulata	Habitat loss	Pollution	Climate change	96	52	61	31	28	14	13	14	2	2	2	1	1	1	NA	NA	NA	120	79	83	NA	NA	121	NA	NA
+Pohlia melanodon	NA	NA	NA	288	241	215	194	198	218	227	228	254	292	274	298	NA	NA	NA	NA	NA	340	306	288	NA	NA	NA	NA	NA
+Bryum weigelii	Exploitation	NA	NA	81	86	92	75	75	44	37	37	22	20	15	10	NA	NA	NA	NA	NA	NA	NA	82	NA	NA	NA	NA	NA
+Ceratodon purpureus	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	373	350	393	342	460	457	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Trichocolea tomentella	Climate change	NA	NA	245	231	125	121	125	87	79	97	42	35	41	49	55	40	NA	NA	NA	336	212	204	NA	NA	368	NA	NA
+Bryum klingraeffii	Habitat loss	NA	NA	22	26	30	28	13	9	11	10	11	7	5	4	3	4	NA	NA	NA	56	44	20	232	153	189	NA	NA
+Cinclidotus nigricans	Habitat loss	NA	NA	61	37	44	47	56	31	29	41	33	48	56	61	56	NA	NA	NA	NA	67	49	59	NA	NA	74	NA	NA
+Cirriphylum crassinervium	Exploitation	Pollution	Exploitation	0	0	0	0	0	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	0	0	0	0	0	0	262	NA
+Sphagnum palustre	Climate change	Habitat loss	NA	35	17	10	6	5	0	0	0	0	0	0	0	0	NA	NA	NA	NA	64	47	81	104	157	95	NA	NA
+Sphagnum squarrosum	Exploitation	NA	NA	NA	NA	NA	NA	NA	NA	NA	452	538	653	375	399	461	302	169	175	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Tortula hoppeana	NA	NA	NA	NA	NA	NA	NA	NA	NA	156	159	166	174	161	174	178	181	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bryum gemmiferum	Pollution	Habitat fragmentation	Climate change	NA	NA	NA	NA	NA	NA	NA	NA	233	278	312	527	162	84	52	49	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bryum bornholmense	Habitat fragmentation	Climate change	Habitat loss	NA	NA	NA	145	159	113	149	245	40	51	54	29	16	19	17	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Thamnobryum alopecurum	Habitat fragmentation	NA	NA	NA	151	165	120	94	120	107	76	106	101	91	65	68	74	65	50	43	NA	NA	NA	NA	NA	NA	NA	NA
+Pleuridium acuminatum	Exploitation	Habitat destruction	Climate change	71	82	52	36	39	13	5	6	3	2	2	1	0	NA	NA	NA	NA	208	106	64	444	433	154	304	NA
+Weissia squarrosa	Habitat fragmentation	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	356	218	279	244	212	187	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Bryum rubens	Climate change	Habitat destruction	Habitat loss	NA	NA	NA	NA	NA	NA	NA	NA	NA	130	239	205	175	102	124	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Fissidens bryoides	Pollution	NA	NA	NA	NA	NA	151	97	73	92	91	72	94	101	117	102	131	95	100	101	NA	NA	NA	NA	NA	NA	NA	NA
+Polytrichum alpinum	NA	NA	NA	510	511	500	573	600	513	452	433	442	551	592	836	726	785	NA	NA	NA	442	436	467	350	371	396	NA	NA
+Trichostomum crispulum	Habitat destruction	Habitat destruction	NA	NA	NA	NA	NA	NA	100	62	54	33	28	15	17	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Syntrichia ruraliformis	Habitat loss	Habitat destruction	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	166	110	69	84	91	57	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Brachythecium velutinum	Climate change	Habitat destruction	Habitat destruction	35	48	61	56	32	0	0	0	0	0	0	0	NA	NA	NA	NA	NA	40	41	50	382	462	96	NA	NA
+Barbula convoluta	Climate change	Habitat fragmentation	Pollution	18	35	18	19	13	12	9	3	2	1	1	0	NA	NA	NA	NA	NA	231	173	99	NA	NA	NA	NA	NA
+Calymperes erosum	Climate change	NA	NA	NA	NA	NA	242	267	295	280	255	143	169	166	127	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Anastrophyllum minutum	Habitat fragmentation	Pollution	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	18	0	0	0	0	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Brachythecium velutinum	NA	NA	NA	NA	NA	NA	NA	NA	NA	332	298	318	332	390	363	399	305	376	401	387	NA	NA	NA	NA	NA	NA	NA	NA
