@@ -1,0 +1,8 @@
+first_name,last_name,age,height,sex,country_of_birth,city_of_birth,played_cricket
+Raja ,Rishi,22,184,male,India,Chennai,TRUE
+Aditya,Bhargwa,21,184,male,India,Bombay,TRUE
+Karthika,Harikumar,23,167,female,India,Trivandrum,TRUE
+Anil,Kuscoglu,24,177,male,Turkey,Istanbul,FALSE
+Ecem,Sorucu,24,170,female,Turkey,Istanbul,FALSE
+Mrinali,Gupta,24,163,female,Ukrain,Kiev,TRUE
+,,,,,,,

@@ -1,0 +1,6 @@
+first_name,last_name,age,height,sex,country_of_birth,city_of_birth,cricket_play
+Hao,Cui,22,183,male,China,Guangxi,TRUE
+Yiyang,Li,22,183,male,China,Shandong,TRUE
+Yanan,Feng,22,160,female,China,Shaanxi,FALSE
+Elias,Huang,26,168,female,China,Guangzhou,FALSE
+Yibo,Wang,20,183,male,China,Shanxi,TRUE

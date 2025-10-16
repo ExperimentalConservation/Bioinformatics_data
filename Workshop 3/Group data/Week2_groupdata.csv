@@ -1,0 +1,6 @@
+first_name,last_name,age,height,Sex,Country_birth,city_birth,cricket_player,HeightDividedByAge
+stefan,Ociepka,23,183,Male,Poland,Gdansk,FALSE,7.956521739
+naveen,Ayyasamy,27,180,Male,India,Coimbatore,TRUE,6.666666667
+mahyoup, Al Selwi,26,163,Male,Yemen,Ibb,FALSE,6.269230769
+leonardo,Rosas,23,163,Male,Mexico,Mexicocity,FALSE,7.086956522
+harika,Y m,21,162,Female,India,Bangalore,TRUE,7.714285714
